@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Face Recogination Project.
-- 🌱 I’m currently learning how to deploy AI models.
+🔭 I’m currently working on Face Recogination Project.
+🌱 I’m currently learning how to deploy AI models.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
