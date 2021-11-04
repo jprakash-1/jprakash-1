@@ -2,10 +2,6 @@
 
 
 
-🔭 I’m currently working on Face Recogination Project.
-
-🌱 I’m currently learning how to deploy AI models.
-
 <!--
 **jprakash-1/jprakash-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
